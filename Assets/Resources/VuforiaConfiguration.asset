@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: VuforiaConfiguration
   m_EditorClassIdentifier: 
   vuforia:
-    vuforiaLicenseKey: 
+    vuforiaLicenseKey: ASsJI+//////AAABmb0KDdgW70JQqFgdZ5pFvISIr63e64DiWhV8d373ppGkefQS4+acphkUYWzbuggNSHb79CoM1iCin7tRpiJKRPmHVYsSWZwNjE9FSCrl7OyHmaDVoYmxrSJm0r3X2Sy1rhayt4ll3CzRK4Gvf9WyUEVNjmxKMyjabXxEiHIpVOEhdMs7fs9vik+QntVJ3UB77Cu16t+j2gDKDA05rXwWvaSI5/o2GRvdzhZLmk7gMAadvqOTnh98QcH0oZVkRZQjQ/S9q0MPyxTkxhN6cyQftl+0fNxUdTBNhZAfPhFbTf1zH0vM+uHuJjFw4CPtIdIX/yqkEtAI2dpILyebjs2oFnPBg7YtANKw2KQLq6RAJrNe
     ufoLicenseKey: QVdQalUvbi8vLy8vQUFBQUtFMlFxSnhkcTBJRHQ3azdRS2FEbmFVK1JNK3V4VUtjSExOVisrRzBzV3E5TE11QzFrU1RkeVkxRi92T2RCcXp6WlhUODZpWlphTmlSWDNXakxVdXdwSUszaU5IL244Yk0xSFNBOVdaekxCZGtoRUdMa091bHZPd25sb2M0aklaUkpvRHhTbXNTMVVNSTFzdGdvVS9ZQUVPWlNFQmI1UlJQR0tCbDRQWG1RRFI1dGxGL1RxTWI5LzhjekZIUzlRNk5UakN5U2YwcWdPd0VUR1NWNUNWbUV6VDFLeVc1czlHT2YrTG4rUXBpK1lSUGxlM1VES2orNk1rWks5YzRFWkpsbWNFMWRPZ0dHSFFEQWNKWUppVVdvV1J5cnpPR0RnMUNNVXZJaUZFLzRHaDdBeFVGQUhSZHN0WkwwZjFnREhTTTI2dXFFbzk0WTluLzd4TTROYVA5TkhlZVFTbFpZMm10M01FNzNkOGd3QWE=
     delayedInitialization: 0
     cameraFocusModeSetting: 2
@@ -23,8 +23,8 @@ MonoBehaviour:
     modelTargetRecoWhileExtendedTracked: 1
     shareRecordingsInITunes: 1
     logLevel: 0
-    version: 10.3.0
-    eulaAcceptedVersions: '{"Values":["","0.0","7.5","8.0","8.3","8.1","8.5","8.6","9.3","7.1","7.2","7.7","8.2","8.4","9.0","8.7","9.1","9.2","9.4","9.5","9.6","9.7","9.8","7.9","7.6","7.8","2.9","8.8","10.3","9.9","10.0","10.4","10.5","10.9","10.2","10.1","9.10","10.7","10.10","10.11","10.12"]}'
+    version: 10.13.3
+    eulaAcceptedVersions: '{"Values":["","0.0","7.5","8.0","8.3","8.1","8.5","8.6","9.3","7.1","7.2","7.7","8.2","8.4","9.0","8.7","9.1","9.2","9.4","9.5","9.6","9.7","9.8","7.9","7.6","7.8","2.9","8.8","10.3","9.9","10.0","10.4","10.5","10.9","10.2","10.1","9.10","10.7","10.10","10.11","10.12","10.13"]}'
   database:
     disableModelExtraction: 1
   shaders:

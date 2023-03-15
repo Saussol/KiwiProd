@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="test" size="0.500000 0.361419" />
+    <ImageTarget name="V2Card" size="1.000000 0.613877" />
+    <ImageTarget name="CardYuGiOh" size="2.000000 1.333333" />
+  </Tracking>
+</QCARConfig>
